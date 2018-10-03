@@ -1,5 +1,5 @@
 class
 {
-system.out.println("41");
+system.out.println("4");
 }
 
